@@ -1,0 +1,358 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.17)  18 OCT 2019 20:06
+entering extended mode
+**"./Avance 2.tex"
+("Avance 2.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ ("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin1.def"
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+))
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/anyfontsize\anyfon
+tsize.sty"
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks22
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg")) ("Avance 2.aux")
+\openout1 = `"Avance 2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen122
+\scratchbox=\box29
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen123
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks24
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\juanm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 415.12572pt, 85.35826pt)
+* v-part:(T,H,B)=(113.81102pt, 595.8007pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=415.12572pt
+* \textheight=595.8007pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<../../../Pictures/UPZMG_Prueba_1b.png, id=1, 221.1462pt x 240.9pt>
+File: ../../../Pictures/UPZMG_Prueba_1b.png Graphic file (type png)
+<use ../../../Pictures/UPZMG_Prueba_1b.png>
+Package pdftex.def Info: ../../../Pictures/UPZMG_Prueba_1b.png  used on input l
+ine 37.
+(pdftex.def)             Requested size: 154.80127pt x 168.62883pt.
+[1
+
+{C:/Users/juanm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../../../Pi
+ctures/UPZMG_Prueba_1b.png>]
+<../../../Pictures/Proyecto/Base.PNG, id=11, 196.48407pt x 130.23656pt>
+File: ../../../Pictures/Proyecto/Base.PNG Graphic file (type png)
+<use ../../../Pictures/Proyecto/Base.PNG>
+Package pdftex.def Info: ../../../Pictures/Proyecto/Base.PNG  used on input lin
+e 62.
+(pdftex.def)             Requested size: 196.48358pt x 130.23624pt.
+<../../../Pictures/Proyecto/Base1.PNG, id=12, 389.95688pt x 216.81pt>
+File: ../../../Pictures/Proyecto/Base1.PNG Graphic file (type png)
+<use ../../../Pictures/Proyecto/Base1.PNG>
+Package pdftex.def Info: ../../../Pictures/Proyecto/Base1.PNG  used on input li
+ne 64.
+(pdftex.def)             Requested size: 272.96794pt x 151.76596pt.
+<../../../Pictures/Proyecto/Base2.PNG, id=13, 600.74437pt x 226.59656pt>
+File: ../../../Pictures/Proyecto/Base2.PNG Graphic file (type png)
+<use ../../../Pictures/Proyecto/Base2.PNG>
+Package pdftex.def Info: ../../../Pictures/Proyecto/Base2.PNG  used on input li
+ne 66.
+(pdftex.def)             Requested size: 300.37144pt x 113.29799pt.
+<../../../Pictures/Proyecto/Plato.PNG, id=14, 310.91156pt x 193.47281pt>
+File: ../../../Pictures/Proyecto/Plato.PNG Graphic file (type png)
+<use ../../../Pictures/Proyecto/Plato.PNG>
+Package pdftex.def Info: ../../../Pictures/Proyecto/Plato.PNG  used on input li
+ne 68.
+(pdftex.def)             Requested size: 279.8178pt x 174.12392pt.
+ [2 <../../../Pictures/Proyecto/Base.PNG>]
+<../../../Pictures/Proyecto/Eslabon1.PNG, id=19, 157.33781pt x 286.82156pt>
+File: ../../../Pictures/Proyecto/Eslabon1.PNG Graphic file (type png)
+<use ../../../Pictures/Proyecto/Eslabon1.PNG>
+Package pdftex.def Info: ../../../Pictures/Proyecto/Eslabon1.PNG  used on input
+ line 73.
+(pdftex.def)             Requested size: 157.33742pt x 286.82085pt.
+
+[3 <../../../Pictures/Proyecto/Base1.PNG> <../../../Pictures/Proyecto/Base2.PNG
+> <../../../Pictures/Proyecto/Plato.PNG>]
+<../../../Pictures/Proyecto/Isometrico.PNG, id=26, 946.28531pt x 471.26062pt>
+File: ../../../Pictures/Proyecto/Isometrico.PNG Graphic file (type png)
+<use ../../../Pictures/Proyecto/Isometrico.PNG>
+Package pdftex.def Info: ../../../Pictures/Proyecto/Isometrico.PNG  used on inp
+ut line 78.
+(pdftex.def)             Requested size: 378.50742pt x 188.5009pt.
+ [4 <../../../Pictures/Proyecto/Eslabon1.PNG> <../../../Pictures/Proyecto/Isome
+trico.PNG>] ("Avance 2.aux") ) 
+Here is how much of TeX's memory you used:
+ 2887 strings out of 492895
+ 41332 string characters out of 3123735
+ 110872 words of memory out of 3000000
+ 6766 multiletter control sequences out of 15000+200000
+ 5772 words of font info for 21 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,5n,25p,606b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/juanm/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/juanm/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/juanm/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "Avance 2.pdf" (4 pages, 368771 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
